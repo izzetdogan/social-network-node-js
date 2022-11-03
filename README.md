@@ -3,7 +3,8 @@ it is a social-network api where users can post articles and follow other users
 
 ## API EndPoints
 
-```node
+```
+javascript
 
 //User Endpoints
 
