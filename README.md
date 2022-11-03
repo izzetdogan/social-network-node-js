@@ -3,7 +3,7 @@ it is a social-network api where users can post articles and follow other users
 
 ## API EndPoints
 
-```Javascript
+```node
 
 //User Endpoints
 
@@ -45,6 +45,7 @@ router.put('/remove-comment' ,requireSignin, removeComment)
 
 
 
+## Features
 
 <ul>
 <li>Jwt auth</li>
